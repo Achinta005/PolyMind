@@ -1,0 +1,9 @@
+[
+  {
+    "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+    "doc_id": "0a591247-b402-47d8-9a2a-c78e1970be42",
+    "page_number": 1,
+    "chunk_index": 0,
+    "text": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India SUMMARY Software engineer with 3 years of experience in backend development. Skilled in Python, FastAPI, PostgreSQL, and REST API design. Passionate about building scalable microservices and ML pipelines. EXPERIENCE Software Engineer — TechCorp India (2022 - Present) - Built REST APIs using FastAPI and Python serving 10,000+ daily users - Designed PostgreSQL schemas for a multi-tenant SaaS application - Reduced API response time by 40% through query optimization - Integrated third-party payment gateways (Razorpay, Stripe) Junior Developer — StartupXYZ (2021 - 2022) - Developed Django-based web application for inventory management - Wrote unit tests achieving 85% code coverage - Collaborated with frontend team on React integration EDUCATION B.Tech Computer Science — VIT University, 2021 CGPA: 8.4 / 10 SKILLS Languages: Python, JavaScript, SQL Frameworks: FastAPI, Django, React Databases: PostgreSQL, MongoDB, Redis Tools: Docker, Git, AWS EC2, Linux CERTIFICATIONS - AWS Certified Developer Associate (2023) - Python Professional Certificate — Coursera (2022) PROJECTS PolyMind — AI document search engine - Built RAG pipeline using FAISS, SBERT, and Llama LLM - Handles PDF ingestion, chunking, embedding, and semantic search StockTracker — Real-time stock monitoring app - FastAPI backend with WebSocket support - Redis for caching live stock prices"
+  }
+]

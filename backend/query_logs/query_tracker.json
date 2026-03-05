@@ -1,0 +1,834 @@
+[
+  {
+    "query_id": "b978be9e-54dc-4f7b-bd47-24e7186183a5",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Where does Arjun currently work?",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:03:20.558454+00:00",
+    "end_time": "2026-03-05T20:03:43.365999+00:00",
+    "duration_ms": 22807,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3841,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.196,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3841,
+    "error": null
+  },
+  {
+    "query_id": "7a19a8f7-645a-4b83-99c5-583af1fc1575",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What is Arjun's educational background?",
+    "answer": "According to the context, Arjun Sharma's educational background is as follows:\n\n- B.Tech Computer Science from VIT University, with a CGPA of 8.4/10.",
+    "start_time": "2026-03-05T20:04:20.530896+00:00",
+    "end_time": "2026-03-05T20:04:24.386180+00:00",
+    "duration_ms": 3855,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3147,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1177,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3147,
+    "error": null
+  },
+  {
+    "query_id": "a4be15b4-d033-4d83-b551-295d7c1f67ad",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Where does Arjun currently work?",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:04:29.177297+00:00",
+    "end_time": "2026-03-05T20:04:30.845148+00:00",
+    "duration_ms": 1667,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3841,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.196,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3841,
+    "error": null
+  },
+  {
+    "query_id": "9c45bfaf-9ebc-4ec4-8d3f-555b02e42036",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "How many years of experience does Arjun have?",
+    "answer": "[1] data.txt p.1: \nSummary: Software engineer with 3 years of experience in backend development.",
+    "start_time": "2026-03-05T20:04:37.519396+00:00",
+    "end_time": "2026-03-05T20:04:40.445460+00:00",
+    "duration_ms": 2926,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3415,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1954,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3415,
+    "error": null
+  },
+  {
+    "query_id": "f685f663-000f-423c-9138-5a64c8d81667",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What projects has Arjun built?",
+    "answer": "According to the provided context, Arjun has built the following projects:\n\n1. PolyMind — AI document search engine\n2. StockTracker — Real-time stock monitoring app",
+    "start_time": "2026-03-05T20:04:47.635014+00:00",
+    "end_time": "2026-03-05T20:04:50.993451+00:00",
+    "duration_ms": 3358,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3699,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1071,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3699,
+    "error": null
+  },
+  {
+    "query_id": "7d0ff54f-928b-46c7-9d1a-f200ebb8be74",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What certifications does Arjun have?",
+    "answer": "[1 · p.1]",
+    "start_time": "2026-03-05T20:04:57.383544+00:00",
+    "end_time": "2026-03-05T20:04:59.628875+00:00",
+    "duration_ms": 2245,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3729,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1768,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3729,
+    "error": null
+  },
+  {
+    "query_id": "e767b7d0-b872-466b-ab2c-560686f5e150",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "How many days of annual leave do employees get?",
+    "answer": "According to [1] data2.txt p.1, full-time employees are entitled to 18 days of paid annual leave per year.",
+    "start_time": "2026-03-05T20:05:09.359320+00:00",
+    "end_time": "2026-03-05T20:05:31.959453+00:00",
+    "duration_ms": 22600,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.5797,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.0483,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.5797,
+    "error": null
+  },
+  {
+    "query_id": "7487a562-f3f9-4fd1-8273-5621f5eeb89b",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Does Arjun qualify for work from home at TechCorp?",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:05:45.152340+00:00",
+    "end_time": "2026-03-05T20:05:47.260948+00:00",
+    "duration_ms": 2108,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.4474,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.4169,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.4474,
+    "error": null
+  },
+  {
+    "query_id": "bdcafa22-747d-48db-bb84-b08cbf2fd234",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Is Arjun still on probation at TechCorp?",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:05:59.499690+00:00",
+    "end_time": "2026-03-05T20:06:01.131764+00:00",
+    "duration_ms": 1632,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.3421,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3114,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.3421,
+    "error": null
+  },
+  {
+    "query_id": "8a9f534b-78e1-42c2-b10a-2ec001a396c1",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "\"What are Arjun's main skills?\"",
+    "answer": "According to [1] data.txt p.1, Arjun's main skills are:\n\n1. Python\n2. FastAPI\n3. PostgreSQL\n4. REST API design\n\nAdditionally, his skills also include JavaScript, SQL, and various frameworks and tools such as Django, React, Docker, Git, AWS EC2, and Linux.",
+    "start_time": "2026-03-05T20:06:08.248680+00:00",
+    "end_time": "2026-03-05T20:06:33.829734+00:00",
+    "duration_ms": 25581,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.2894,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.044,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.2894,
+    "error": null
+  },
+  {
+    "query_id": "b2653f08-6e90-4f79-bc31-7a3d512ec97f",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "\"How many leave days?\"",
+    "answer": "According to [1] data2.txt p.1, full-time employees are entitled to 18 days of paid annual leave per year.",
+    "start_time": "2026-03-05T20:06:44.004834+00:00",
+    "end_time": "2026-03-05T20:07:06.030774+00:00",
+    "duration_ms": 22025,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.3347,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.0305,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.3347,
+    "error": null
+  },
+  {
+    "query_id": "aaa0c142-3b3e-4bda-85f6-ecdca73f6e91",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "\"What is quantum computing?\"",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:07:17.360184+00:00",
+    "end_time": "2026-03-05T20:07:38.886433+00:00",
+    "duration_ms": 21526,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.1506,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": -0.0862,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.1506,
+    "error": null
+  },
+  {
+    "query_id": "88fd0cdc-9487-48b4-ad09-222bf80a385f",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "\"Tell me about nuclear physics\"",
+    "answer": "Not found in documents.",
+    "start_time": "2026-03-05T20:07:51.791785+00:00",
+    "end_time": "2026-03-05T20:07:53.602287+00:00",
+    "duration_ms": 1810,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.0893,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": -0.0401,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.0893,
+    "error": null
+  },
+  {
+    "query_id": "e50ab46c-256c-4279-9ea6-00cad09a8407",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Where does Arjun currently work?",
+    "answer": "[1 · p.1]",
+    "start_time": "2026-03-05T20:11:42.443539+00:00",
+    "end_time": "2026-03-05T20:12:09.258324+00:00",
+    "duration_ms": 26814,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3841,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.196,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3841,
+    "error": null
+  },
+  {
+    "query_id": "21716ac2-a42e-4d50-9f22-2d0a3651f67a",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What certifications does Arjun have?",
+    "answer": "[filename · p.N] data.txt p.1\nArjun Sharma has the following certifications:\n- AWS Certified Developer Associate (2023)\n- Python Professional Certificate — Coursera (2022)",
+    "start_time": "2026-03-05T20:12:31.125445+00:00",
+    "end_time": "2026-03-05T20:12:35.366183+00:00",
+    "duration_ms": 4240,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3729,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1768,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3729,
+    "error": null
+  },
+  {
+    "query_id": "70516ea4-f84b-4110-8c70-189ff80e5e3e",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Does Arjun qualify for work from home at TechCorp?",
+    "answer": "[1 · p.4] According to the Employee Leave Policy 2024, employees are eligible for work from home up to 2 days per week, but employees on probation (first 6 months) are not eligible for work from home. Since Arjun is a software engineer with 3 years of experience, he is no longer on probation. Therefore, he qualifies for work from home at",
+    "start_time": "2026-03-05T20:12:46.305126+00:00",
+    "end_time": "2026-03-05T20:13:13.149211+00:00",
+    "duration_ms": 26844,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.4474,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.4169,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.4474,
+    "error": null
+  },
+  {
+    "query_id": "d3190a0e-ccc5-4e8a-9285-9d9012c068dc",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Is Arjun still on probation at TechCorp?",
+    "answer": "[1] data2.txt p.1:\n6. PROBATION PERIOD All new employees serve a 6-month probation period. During probation, employees are entitled to 5 days leave only. Probation employees are not eligible for work from home.\n\nSince Arjun's probation period started in 2022, and the current year is 2024, it is likely that Arjun has",
+    "start_time": "2026-03-05T20:13:15.177153+00:00",
+    "end_time": "2026-03-05T20:13:22.578807+00:00",
+    "duration_ms": 7401,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.3421,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3114,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.3421,
+    "error": null
+  },
+  {
+    "query_id": "d6646c58-a2e4-4e73-b491-ff1a705ef321",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What is Arjun's email address?",
+    "answer": "Arjun's email address is arjun.sharma@email.com. [1 · p.1]",
+    "start_time": "2026-03-05T20:17:33.957928+00:00",
+    "end_time": "2026-03-05T20:17:38.571867+00:00",
+    "duration_ms": 4613,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3508,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.0953,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3508,
+    "error": null
+  },
+  {
+    "query_id": "e484c4c0-c38e-45a1-a1a9-77f0a13c7d3e",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What is Arjun's CGPA?",
+    "answer": "According to the context, Arjun's CGPA (Cumulative Grade Point Average) is 8.4 / 10. [1 · p.1]",
+    "start_time": "2026-03-05T20:17:46.322144+00:00",
+    "end_time": "2026-03-05T20:17:49.719512+00:00",
+    "duration_ms": 3397,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3125,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1473,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3125,
+    "error": null
+  },
+  {
+    "query_id": "06403933-7d3f-4851-a7dd-5003cbbc82f3",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Where is Arjun located?\nWhat university did Arjun attend?",
+    "answer": "According to the context, Arjun is located in Bangalore, India.\n\nArjun attended VIT University, where he earned a B.Tech degree in Computer Science with a CGPA of 8.4/10.",
+    "start_time": "2026-03-05T20:18:00.868340+00:00",
+    "end_time": "2026-03-05T20:18:05.111209+00:00",
+    "duration_ms": 4242,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.2874,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1019,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.2874,
+    "error": null
+  },
+  {
+    "query_id": "3df61e10-dcc4-4732-a81a-c7f2f220c475",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Where does Arjun currently work?",
+    "answer": "According to the context, Arjun currently works at TechCorp India. [1 · p.1]",
+    "start_time": "2026-03-05T20:18:12.230640+00:00",
+    "end_time": "2026-03-05T20:18:15.182704+00:00",
+    "duration_ms": 2952,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3841,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.196,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3841,
+    "error": null
+  },
+  {
+    "query_id": "1f2ac9cd-95bb-4489-8c5f-5ad04f34cc93",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "How many years of experience does Arjun have?\nWhat certifications does Arjun have?\nWhat technologies does Arjun know?",
+    "answer": "Here are the answers to your questions based on the provided context:\n\n1. Arjun has 3 years of experience.\n[1] data.txt p.1\n\n2. Arjun has the following certifications:\n   - AWS Certified Developer Associate (2023)\n   - Python Professional Certificate — Coursera (2022)\n[1] data.txt p.1\n\n3. Arjun knows the",
+    "start_time": "2026-03-05T20:18:22.724097+00:00",
+    "end_time": "2026-03-05T20:18:30.249392+00:00",
+    "duration_ms": 7525,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3981,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.1952,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.3981,
+    "error": null
+  },
+  {
+    "query_id": "c574aef4-ef4c-46eb-b411-9ae2cfdef855",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "How many sick leave days do employees get?\nCan unused annual leave be carried forward?",
+    "answer": "According to the provided context, employees are entitled to 10 days of paid sick leave per year. \n\nUnused annual leave can be carried forward up to a maximum of 10 days to the next year.",
+    "start_time": "2026-03-05T20:18:38.353559+00:00",
+    "end_time": "2026-03-05T20:19:01.163976+00:00",
+    "duration_ms": 22810,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.5626,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": -0.0875,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.5626,
+    "error": null
+  },
+  {
+    "query_id": "ebc2cefa-a1b2-4c05-a1ad-700d6409df53",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Is Arjun still on probation at TechCorp?",
+    "answer": "According to the information provided, Arjun has been working at TechCorp India since 2022, and his probation period is 6 months. Since he started working in 2022, his probation period would have ended in 2023. Therefore, Arjun is no longer on probation at TechCorp. [1] data2.txt p.1",
+    "start_time": "2026-03-05T20:19:19.620362+00:00",
+    "end_time": "2026-03-05T20:19:26.092981+00:00",
+    "duration_ms": 6472,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.3421,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3114,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.3421,
+    "error": null
+  },
+  {
+    "query_id": "4185992a-9ed1-461f-8f6d-353a31b61a7b",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "Does Arjun qualify for work from home at TechCorp?\nWhat leave is Arjun entitled to as a TechCorp employee?",
+    "answer": "Based on the context provided, here are the answers:\n\n1. Does Arjun qualify for work from home at TechCorp?\n\nArjun does not qualify for work from home at TechCorp because he is currently on probation (his probation period started in 2022 and it is not specified when it ended, but it is mentioned that he is a current employee, so it is likely that it is still",
+    "start_time": "2026-03-05T20:19:30.698444+00:00",
+    "end_time": "2026-03-05T20:19:37.898914+00:00",
+    "duration_ms": 7200,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.5517,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      },
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.3437,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      }
+    ],
+    "top_score": 0.5517,
+    "error": null
+  },
+  {
+    "query_id": "4e237c6e-9702-4488-b438-d75b88be704c",
+    "user_id": "40eb0a5c-6f5a-4db4-83a0-b62ff0c1bc14",
+    "document_ids": [
+      "2dd7db87-86b4-4132-b001-2c190377f5dc",
+      "0a591247-b402-47d8-9a2a-c78e1970be42"
+    ],
+    "question": "What is Arjun's salary?\nWhat is quantum computing?\nWho is the CEO of TechCorp?",
+    "answer": "I can answer the first two questions based on the provided context.\n\n1. Arjun's salary is not explicitly mentioned in the provided context. However, we can make an educated guess based on the company's size and industry. According to the provided context, Arjun is a software engineer with 3 years of experience and has built a REST API serving 10,000+ daily users. Assuming a",
+    "start_time": "2026-03-05T20:19:46.875784+00:00",
+    "end_time": "2026-03-05T20:20:13.321747+00:00",
+    "duration_ms": 26445,
+    "status": "success",
+    "chunks_used": [
+      {
+        "chunk_id": "6e944c47-5aab-4852-b6a9-9f1c4ad8f292",
+        "filename": "data.txt",
+        "page_number": 1,
+        "score": 0.4316,
+        "text_preview": "Name: Arjun Sharma Email: arjun.sharma@email.com Phone: +91-98765-43210 Location: Bangalore, India S"
+      },
+      {
+        "chunk_id": "0f20d2af-518d-4b70-910a-6497d9d9ecf0",
+        "filename": "data2.txt",
+        "page_number": 1,
+        "score": 0.2121,
+        "text_preview": "COMPANY NAME: TechCorp India DOCUMENT: Employee Leave Policy 2024 1. ANNUAL LEAVE All full-time empl"
+      }
+    ],
+    "top_score": 0.4316,
+    "error": null
+  }
+]
