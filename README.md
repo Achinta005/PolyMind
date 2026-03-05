@@ -6,18 +6,18 @@
 
 ## Table of Contents
 
-* [Overview](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#overview)
-* [Tech Stack](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#tech-stack)
-* [Architecture](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#architecture)
-* [Phase 1 — Document Ingestion](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#phase-1--document-ingestion)
-* [Phase 2 — Query &amp; Chat](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#phase-2--query--chat)
-* [API Reference](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#api-reference)
-* [Project Structure](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#project-structure)
-* [Setup &amp; Installation](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#setup--installation)
-* [Configuration](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#configuration)
-* [Query Tracker &amp; Stats Dashboard](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#query-tracker--stats-dashboard)
-* [Performance &amp; Optimization](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#performance--optimization)
-* [Roadmap](https://claude.ai/chat/02caf1af-b0b6-43e1-a938-56e9899084cd#roadmap)
+* [Overview](https://www.achintahazra.shop/#overview)
+* [Tech Stack](https://www.achintahazra.shop/#tech-stack)
+* [Architecture](https://www.achintahazra.shop/#architecture)
+* [Phase 1 — Document Ingestion](https://www.achintahazra.shop/#phase-1-document-ingestion)
+* [Phase 2 — Query & Chat](https://www.achintahazra.shop/#phase-2-query-chat)
+* [API Reference](https://www.achintahazra.shop/#api-reference)
+* [Project Structure](https://www.achintahazra.shop/#project-structure)
+* [Setup & Installation](https://www.achintahazra.shop/#setup--installation)
+* [Configuration](https://www.achintahazra.shop/#configuration)
+* [Query Tracker & Stats Dashboard](https://www.achintahazra.shop/#query-tracker--stats-dashboard)
+* [Performance & Optimization](https://www.achintahazra.shop/#performance--optimization)
+* [Roadmap](https://www.achintahazra.shop/#roadmap)
 
 ---
 
@@ -336,7 +336,7 @@ backend-ml/
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/yourname/polymind.git
+git clone https://github.com/Achinta005/PolyMind.git
 cd polymind/backend-ml
 pip install -r requirements.txt
 ```
@@ -479,4 +479,4 @@ Visit `GET /query/stats` for the live HTML dashboard with filtering, search, and
 
 ## License
 
-MIT License — see [LICENSE](https://claude.ai/chat/LICENSE) for details.
+MIT License — see [LICENSE](https://www.achintahazra.shop/LICENSE) for details.
