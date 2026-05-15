@@ -42,7 +42,7 @@ export default function LoginPage() {
   };
 
 const handleOAuth = (provider: 'google' | 'github') => {
-  window.location.href = `/api/auth/oauth/${provider}`;
+  window.location.href = `${OAUTH_BASE}/polymind/auth/${provider}`;
 };
 
   return (
