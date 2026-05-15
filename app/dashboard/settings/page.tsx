@@ -7,7 +7,7 @@ import { apiFetch } from "../../lib/auth";
 
 export default function SettingsPage() {
   const { user, logout } = useAuth();
-  const [name, setName] = useState(user?.name || "");
+  const [name, setName] = useState(user?.fullName || "");
   const [saved, setSaved] = useState(false);
   const [currentPw, setCurrentPw] = useState("");
   const [newPw, setNewPw] = useState("");
